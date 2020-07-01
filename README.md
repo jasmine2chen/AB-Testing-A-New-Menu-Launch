@@ -10,6 +10,9 @@ The test ran for a period of 12 weeks (2016-April-29 to 2016-July-21) where five
 ## Objectives
 As a data analyst, my role is to analyze the results of the experiment to determine whether the menu changes should be applied to all stores. The predicted impact to profitability should be enough to justify the increased marketing budget: at least 18% increase in profit growth compared to the comparative period while compared to the control stores; otherwise known as incremental lift. In the data, profit is represented in the gross_margin variable.
 
-Transaction data for all stores from 2015-January-21 to 2016-August-18. A listing of the 10 stores (5 in each market) that were used as test markets.
+## Datasets
+-Transaction data for all stores from 2015 January 21 to 2016 August 18
+-A listing of all Round Roasters stores
+-A listing of the 10 stores (5 in each market) that were used as test markets
 
 
