@@ -25,6 +25,6 @@ As a data analyst, my role is to analyze the results of the experiment to help t
 - Logistic Regression
 
 ## Conclusions
-The performance of the old page was found slightly outperformed (by a very slim margin) or equal to the new page as computed using two techniques: A/B testing and logistic regression. Hence, we Reject the Alternate Hypothesis that the new page results in higher conversion rate than the old page. These inferences are strictly based on data available. This analysis acknowledges its limitations due to factors not included in the data.
+The performance of the old page was found slightly outperformed (by a very slim margin) or equal to the new page as computed using two techniques: A/B testing and logistic regression. Hence, we reject the alternate hypothesis that the new page results in higher conversion rate than the old page. These inferences are strictly based on data available. This analysis acknowledges its limitations due to factors not included in the data.
 
 
