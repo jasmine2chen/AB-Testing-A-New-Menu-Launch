@@ -15,8 +15,8 @@ As a data analyst, my role is to analyze the results of the experiment to help t
 
 ## Analysis
 - A/B testing, perform Hypothesis Testing and calculate p-values
- -- simulation
- -- using built-in function `statsmodels.api`
+ - - simulation
+ - - using built-in function `statsmodels.api`
 
 - Logistic Regression
 
