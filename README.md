@@ -1,4 +1,4 @@
-# A/B Testing: A New Web Page  
+# A/B Testing: Conversion Rate of A New Web Page  
 
 ## Background
 An e-commerce company has developed a new web page to try to increase the number of users who "convert," meaning the number of users who decide to pay for the company's products.
