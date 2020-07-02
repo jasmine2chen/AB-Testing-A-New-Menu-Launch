@@ -15,9 +15,9 @@ As a data analyst, my role is to analyze the results of the experiment to help t
 
 ## Analysis
 - Hypothesis
-  **Ho : P_old >= P_new **
+  
+  Ho : P_old >= P_new, HA : P_old < P_new
 
-**H1 : P_old < P_new **
 - A/B testing, perform Hypothesis Testing and calculate p-values
  - - simulation
  - - using built-in function `statsmodels.api`
