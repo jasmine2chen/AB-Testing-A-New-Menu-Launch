@@ -14,10 +14,17 @@ As a data analyst, my role is to analyze the results of the experiment to help t
 - I removed records where the landing_page and converted columns don't align
 
 ## Analysis
+- Hypothesis
+  **Ho : P_old >= P_new **
+
+**H1 : P_old < P_new **
 - A/B testing, perform Hypothesis Testing and calculate p-values
  - - simulation
  - - using built-in function `statsmodels.api`
 
 - Logistic Regression
+
+## Conclusions
+The performance of the old page was found slightly outperformed (by a very slim margin) or equal to the new page as computed using two techniques: A/B testing and logistic regression. Hence, we Reject the Alternate Hypothesis that the new page results in higher conversion rate than the old page. These inferences are strictly based on data available. This analysis acknowledges its limitations due to factors not included in the data.
 
 
