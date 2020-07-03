@@ -1,9 +1,11 @@
-# A/B Testing: Conversion Rate of A New Web Page  
+# A/B Testing: A New Web Page  
 
 ## Background
 An e-commerce company has developed a new web page to try to increase the number of users who "convert," meaning the number of users who decide to pay for the company's products.
 
 As a data analyst, my role is to analyze the results of the experiment to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decisions.
+
+I defined the key metric as conversion rate. 
 
 ## Datasets
 - `ab_data.csv` contains information on user_id, timestamp, treatment or control group, landing_page and converted or not. 
